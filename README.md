@@ -9,4 +9,7 @@ Descrição breve do projeto. O que ele faz e qual problema resolve.
 - Linguagem/Framework 1
 - Linguagem/Framework 2
 - Outros
-
+- git checkout -b minha-nova-feature
+git checkout -b minha-nova-feature
+git commit -m 'Adiciona nova feature'
+git push origin minha-nova-feature
