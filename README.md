@@ -10,8 +10,3 @@ Descrição breve do projeto. O que ele faz e qual problema resolve.
 - Linguagem/Framework 2
 - Outros
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
